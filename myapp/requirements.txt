@@ -4,5 +4,5 @@ sounddevice
 numpy
 speechrecognition
 together  
-PyAudio==0.2.11
+
 
